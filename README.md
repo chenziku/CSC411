@@ -1,7 +1,7 @@
 # CSC411 - Machine Learning and Data Mining
 
 
-# Projects
+# Project Overviews
 ## 1. Face Recognition and Gender Classification with Regresssion
 Build a system for face recognition and gender classification, and test it on a large(-ish) dataset of faces, getting practice with data-science-flavour projects along the way. Can import things like numpy and matplotlib, but the idea is to implement things “from scratch”: cannot import libraries that will do the work!
 
