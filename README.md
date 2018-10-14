@@ -2,6 +2,7 @@
 Projects are designed by Professor Michael Guerzhoy & Lisa Zhang
 
 http://www.cs.toronto.edu/~guerzhoy/
+
 http://www.lisazhang.ca/
 
 # Project Overviews
