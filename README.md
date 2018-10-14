@@ -1,4 +1,8 @@
 # CSC411 - Machine Learning and Data Mining
+Projects are designed by Professor Michael Guerzhoy & Lisa Zhang
+
+http://www.cs.toronto.edu/~guerzhoy/
+http://www.lisazhang.ca/
 
 # Project Overviews
 ## 1. Face Recognition and Gender Classification with Regresssion
